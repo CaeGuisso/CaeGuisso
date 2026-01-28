@@ -1,29 +1,24 @@
 # Caetano Guisso – Backend Developer
 
-I am a Backend Developer specializing in Python, focused on building scalable, secure, and high-performance back-end systems and APIs.
+Backend Developer specializing in Python, building scalable, secure, and high-performance APIs and back-end systems.
+
+---
 
 ## About Me
-- Experienced with **FastAPI**, **Django**, and **Flask** for creating robust APIs and backend solutions.
-- Built automation bots and systems serving 500+ users, optimizing workflows and internal processes.
-- Committed to **secure software design**, integrating security best practices into applications.
-- Currently expanding expertise in **Information Security** and **AppSec**, aiming to combine performance with strong security standards.
+I build automation bots and back-end systems that serve hundreds of users, focusing on **performance**, **security**, and **maintainability**. I am passionate about clean, efficient code and integrating **best practices in application security** into my projects.
+
+---
 
 ## Skills
-- **Languages:** Python, SQL, JavaScript
-- **Frameworks & Tools:** FastAPI, Django, Flask, REST APIs, SQL/NoSQL Databases
-- **Back-end Development:** API Design, Automation, Workflow Optimization
-- **Security:** Application Security (AppSec), Secure Coding Practices
-- **Other:** Git, Version Control, Docker, CI/CD Basics
 
-## Projects
-- **Scalable APIs:** Backend systems designed for high performance and reliability.
-- **Automation Bots:** Bots that streamline processes and serve hundreds of users.
-- **Secure Back-end Applications:** Systems built with security best practices in mind.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Goals
-- Further advance in **Information Security** and **AppSec certifications**.
-- Deliver back-end solutions that balance **performance**, **security**, and **maintainability**.
-- Contribute to open-source projects focused on **Python back-end development**.
+---
 
-## Explore
-Check my repositories to see examples of my work in **backend systems, APIs, and automation**.
+Explore my repositories to see projects on **backend systems, APIs, and automation**.
